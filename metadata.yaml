@@ -1,5 +1,8 @@
 _repo: The-Life-of-La-Fayette-The-Knight-of-Liberty-in-Two-Worlds-and-Two-Centuries_55234
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55234-h/images/cover.jpg
 creator:
   author:
     agent_name: Farmer, Lydia Hoyt
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '45950'
     url: http://www.gutenberg.org/2009/agents/45950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55234#The-Life-of-La-Fayette-The-Knight-of-Liberty-in-Two-Worlds-and-Two-Centuries
 gutenberg_issued: '2017-07-31'
 gutenberg_type: Text
 identifiers:
